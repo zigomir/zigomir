@@ -1,7 +1,7 @@
-### yo 👋
+hey
 
-- 🔭 I’m currently working on [sleuth.io](https://www.sleuth.io)
-- 📫 Reach me at: ziga@hey.com
+- currently working on [sleuth.io](https://www.sleuth.io)
+- reach me at: ziga@hey.com
 
 <!--
 **zigomir/zigomir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
